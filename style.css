@@ -7,26 +7,36 @@ header{
     background-color:rgb(0, 255, 174);
     height: 100px;
 }
+ul{
+    margin-left: 20px;
+}
 li{
     display:inline-block;
-    margin-left: 10px;
+    margin-left: 130px;
     margin-top: 20px;
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 color:rgb(140, 0, 255);
+border: solid rgb(255, 255, 255);
 }
 img{
     width:200px;
-    
+    height:250px;
 }
 div{
-    border: solid black;
     display:inline-block;
-    margin-left: 60px;
+    margin-left: 80px;
     margin-top: 20px;
     font-size:15px;
 }
+.cadastro{
+    margin-left:100px;
+    font-family: Georgia, 'Times New Roman', Times, serif; color:rgb(78, 2, 140)
+}
+
 footer{
+    padding-top: 30px;
+    margin-top:60px;
     background-color:rgb(0, 255, 174);
     height: 150px;
 }
